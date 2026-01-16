@@ -1,0 +1,8 @@
+{
+  "initiative_possible": true,
+  "initiative_required": false,
+  "initiative_expected": false,
+  "silence_is_valid": true,
+  "action_is_valid": true,
+  "priority": "undefined"
+}
